@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0203-remove-linked-list-elements) |
+## Array
+|  |
+| ------- |
+| [3978-unique-middle-element](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/3978-unique-middle-element) |
+## Counting
+|  |
+| ------- |
+| [3978-unique-middle-element](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/3978-unique-middle-element) |
 <!---LeetCode Topics End-->

@@ -18,9 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0001-two-sum) |
 | [3978-unique-middle-element](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/3978-unique-middle-element) |
 ## Counting
 |  |
 | ------- |
 | [3978-unique-middle-element](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/3978-unique-middle-element) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->

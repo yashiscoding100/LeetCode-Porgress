@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0507-perfect-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0507-perfect-number) |
+| [3099-harshad-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/3099-harshad-number) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Linked List
 |  |

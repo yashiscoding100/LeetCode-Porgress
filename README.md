@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0507-perfect-number) |
 | [3099-harshad-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/3099-harshad-number) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0268-missing-number) |
 | [3978-unique-middle-element](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/3978-unique-middle-element) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Counting
@@ -32,10 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0278-first-bad-version) |
 ## Interactive
 |  |
@@ -45,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

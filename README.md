@@ -31,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0001-two-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->

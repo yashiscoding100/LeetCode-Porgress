@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0001-two-sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3978-unique-middle-element](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/3978-unique-middle-element) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Counting
@@ -34,9 +35,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0278-first-bad-version) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0278-first-bad-version) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->

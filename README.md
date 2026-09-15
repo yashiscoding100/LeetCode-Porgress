@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0704-binary-search) |
 | [3978-unique-middle-element](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/3978-unique-middle-element) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0704-binary-search) |
 ## Interactive
@@ -60,11 +62,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0344-reverse-string) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -73,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0344-reverse-string) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->

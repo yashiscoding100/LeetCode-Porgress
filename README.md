@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0704-binary-search) |
+| [0766-toeplitz-matrix](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0766-toeplitz-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/1572-matrix-diagonal-sum) |
 | [3978-unique-middle-element](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/3978-unique-middle-element) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
@@ -93,5 +94,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0074-search-a-2d-matrix) |
+| [0766-toeplitz-matrix](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0766-toeplitz-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->

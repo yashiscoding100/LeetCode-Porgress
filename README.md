@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -80,10 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0344-reverse-string) |
 ## Pigeonhole Principle
 |  |

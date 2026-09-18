@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0287-find-the-duplicate-number) |
+| [0643-maximum-average-subarray-i](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0766-toeplitz-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/1480-running-sum-of-1d-array) |
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/1480-running-sum-of-1d-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->

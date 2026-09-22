@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0507-perfect-number) |
 | [3099-harshad-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/3099-harshad-number) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0268-missing-number) |
 ## Binary Search
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0345-reverse-vowels-of-a-string) |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
 |  |

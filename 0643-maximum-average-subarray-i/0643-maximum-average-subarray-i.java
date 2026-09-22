@@ -1,21 +1,27 @@
 class Solution {
     public double findMaxAverage(int[] nums, int k) {
+        //We will use sliding window in  this
         int n = nums.length;
-        int window = 0;
+        int windows = 0;
+        int ans = 0;
+        //Step 1: Print the sum of first k size elements
         for(int i = 0; i<k; i++){
-            window += nums[i];
+            windows += nums[i];
         }
+        ans = windows;
+        // Now use the two pointer approach 
         int left = 0;
         int right = k;
-        int ans = window;
-        while(right<n){
-            window+= nums[right];
-            window -= nums[left];
-            right++;
-            left++;
-            ans = Math.max(window,ans);
+        while(right < n){
+           windows += nums[right];
+           windows -= nums[left];
+           right++;
+           left++;
+           
+           ans = Math.max(windows,ans); // Stores the max of window and ans and stores it in the ans variable
         }
-        return (double) ans/k;
+        return (double) ans / k;
+        
         
     }
 }

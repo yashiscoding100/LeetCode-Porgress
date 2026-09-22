@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0268-missing-number) |
+| [0771-jewels-and-stones](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0771-jewels-and-stones) |
 ## Binary Search
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0345-reverse-vowels-of-a-string) |
+| [0771-jewels-and-stones](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0771-jewels-and-stones) |
 | [1768-merge-strings-alternately](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/1768-merge-strings-alternately) |
 ## Pigeonhole Principle
 |  |

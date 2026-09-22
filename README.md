@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0287-find-the-duplicate-number) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0287-find-the-duplicate-number) |
@@ -120,10 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0209-minimum-size-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/1480-running-sum-of-1d-array) |
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0643-maximum-average-subarray-i) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |

@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1572-matrix-diagonal-sum](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/1572-matrix-diagonal-sum) |
+| [2574-left-and-right-sum-differences](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/2574-left-and-right-sum-differences) |
 | [3978-unique-middle-element](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/3978-unique-middle-element) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Counting
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/1480-running-sum-of-1d-array) |
+| [2574-left-and-right-sum-differences](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/2574-left-and-right-sum-differences) |
 ## Sliding Window
 |  |
 | ------- |

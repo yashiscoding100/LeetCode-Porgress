@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0766-toeplitz-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/1480-running-sum-of-1d-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1572-matrix-diagonal-sum](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/1572-matrix-diagonal-sum) |
 | [3978-unique-middle-element](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/3978-unique-middle-element) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
@@ -130,8 +131,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0643-maximum-average-subarray-i) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0229-majority-element-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->

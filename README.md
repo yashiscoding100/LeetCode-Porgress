@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0507-perfect-number) |
+| [1137-n-th-tribonacci-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/1137-n-th-tribonacci-number) |
 | [3099-harshad-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/3099-harshad-number) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Linked List
@@ -151,9 +152,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0053-maximum-subarray) |
+| [1137-n-th-tribonacci-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/1137-n-th-tribonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0053-maximum-subarray) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->

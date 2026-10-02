@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0345-reverse-vowels-of-a-string) |
 | [0771-jewels-and-stones](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0796-rotate-string) |
 | [1768-merge-strings-alternately](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/1768-merge-strings-alternately) |
 ## Pigeonhole Principle
 |  |
@@ -166,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/1137-n-th-tribonacci-number) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->

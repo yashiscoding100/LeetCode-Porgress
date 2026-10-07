@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0704-binary-search) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0771-jewels-and-stones](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0771-jewels-and-stones) |
 ## Binary Search
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/1004-max-consecutive-ones-iii) |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1768-merge-strings-alternately](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/1768-merge-strings-alternately) |
 ## Bit Manipulation
 |  |
@@ -121,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
 | ------- |

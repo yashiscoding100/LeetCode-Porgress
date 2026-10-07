@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0766-toeplitz-matrix) |
 | [1004-max-consecutive-ones-iii](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/1004-max-consecutive-ones-iii) |
+| [1122-relative-sort-array](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/1122-relative-sort-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0771-jewels-and-stones](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0771-jewels-and-stones) |
+| [1122-relative-sort-array](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/1122-relative-sort-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 ## Binary Search
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1122-relative-sort-array](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/1122-relative-sort-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 ## String
 |  |
@@ -193,4 +196,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/0796-rotate-string) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/1122-relative-sort-array) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/yashiscoding100/LeetCode-Porgress/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
